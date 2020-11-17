@@ -1,6 +1,6 @@
 # Exam 1 Retrospection
 
-## Quality 
+## Quality of participation (Team members completed their tasks within the assignment well)
 
 ##### Worked 
 
@@ -10,7 +10,7 @@
 
 ###### How to fix it
 
-## Quantity
+## Quantity of participation (Team members completed their tasks that were their part)
 
 ##### Worked 
 
@@ -20,7 +20,7 @@
 
 ###### How to fix it
  
-## Timeliness
+## Timeliness of participation (Team members completed/helped to complete tasks on time)
 
 ##### Worked
 
@@ -30,7 +30,7 @@
 
 ###### How to fix it 
 
-## Communication 
+## Communication (Team members communicated well about the work being done, and possible delays and challenges)
 
 ##### Worked
 
