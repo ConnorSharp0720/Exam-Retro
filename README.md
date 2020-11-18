@@ -4,13 +4,16 @@
 ### (Team members completed their tasks within the assignment well)
 
 #### Worked 
-Tasks were completed satisfactorily and when things were completed there weren't any issues with the quality of the work. Overall good work on necessary tasks. 
+Tasks were completed satisfactorily and when things were completed there weren't many issues with the quality of the work. Overall good work on necessary tasks. 
 
 #### Needs Improvement
+One very minor thing that could use improvement would be moral. All team members have many other obligations going on, but we still manage to get everything done on time.
 
 #### Did Not Work
+The endpoints were fun to make however writing down documentatoin felt like a chore and forced.
 
 ##### How to fix it
+Practice more documentation and write it as we code, that way we do a little bit at a time.
 
 ## Quantity of participation 
 ### (Team members completed their tasks that were their part)
@@ -52,6 +55,7 @@ Each group member was able to be reached when needed, and the team all started o
 Communication is very frontloaded and backloaded. Communication was strong when the project was assigned and then again when it was near its end. Better at communicating changes throughout the middle of the timeline.
 
 #### Did Not Work
+Microsoft Teams is an annoying application to work with and sometimes messages weren't sent or read.
 
 ##### How to fix it 
-for multi-week projects with longer timelines, set weeky or bi-weekly checkins and reports so the team can all come together and see where we are at. 
+For multi-week projects with longer timelines, set weeky or bi-weekly checkins and reports so the team can all come together and see where we are at. Also get more familiar with Microsoft Teams or switch communication platforms. 
